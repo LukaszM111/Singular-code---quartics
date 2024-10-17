@@ -1,6 +1,6 @@
 // List of useful procedures
-< "procedures.txt";
-< "search_conics.txt"
+< "procedures.c";
+< "search_conics.c"
 
 
 // Section 2
